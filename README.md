@@ -1,6 +1,6 @@
-## About me 👋
+## About me 
 
-<!--
+
 **ronaldnino/ronaldnino** es un repositorio ✨ _especial_ ✨ `README.md` (este archivo) aparece en su perfil de GitHub.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Pregunten sobre temas de nube.
 - 📫 Como contactarmen +58 416 4787740.
 - ⚡ Megusta la musica clasica.
--->
+
