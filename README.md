@@ -13,4 +13,4 @@ Con el fin de estar al día con los últimos avances tecnológicos, a menudo 
 - ⚡ Me gusta la música clásica.
 Además de mi amplia experiencia y múltiples competencias, también puedo ofrecer nuevas ideas para el desarrollo de aplicaciones web modernas.
 
-![Mis insignias](https://drive.google.com/file/d/1-OIzbtpaaeJOcyiC6aKr_KtDZ1vMtYzq/view)
+[Mis insignias](https://drive.google.com/file/d/1-OIzbtpaaeJOcyiC6aKr_KtDZ1vMtYzq/view)
