@@ -3,7 +3,6 @@
 
 **ronaldnino/ronaldnino** es un repositorio ✨ _especial_ ✨ `README.md` (este archivo) aparece en su perfil de GitHub.
 
-Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy en búsqueda de trabajo.
 - 🌱 Actualmente estoy aprendiendo Terraform, Contenedores, Docker y Kubernetes.
